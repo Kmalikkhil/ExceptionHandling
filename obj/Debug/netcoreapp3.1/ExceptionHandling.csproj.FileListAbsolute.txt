@@ -1,0 +1,11 @@
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+D:\GITHUB FOLDER\SEMESTER-TWO\C-Sharp\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
